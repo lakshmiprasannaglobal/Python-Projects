@@ -1,7 +1,6 @@
 
 """
 Simple Calculator GUI using Tkinter with a safe AST evaluator.
-Save as calculator.py and run: python calculator.py
 """
 
 import tkinter as tk
