@@ -19,14 +19,5 @@ Supports basic arithmetic operations with a clean user interface.
 3. Run:
 
 
-Preview
- -------------------------
-|      [ Display Box ]    |
-|-------------------------|
-| C | ⌫ | % | / |
-| 7 | 8 | 9 | * |
-| 4 | 5 | 6 | - |
-| 1 | 2 | 3 | + |
-| +/- | 0 | . | = |
- -------------------------
+
 
